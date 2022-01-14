@@ -31,8 +31,8 @@ The Game can be run by the user or the user can watch a Simple AI play the game.
 
 My goal was to recreate the classic feature of Snake games:
 
-1-You scores when you eat a fruit but your velocity increase as well as your size, then the game become more difficult.
-2-If you eat yourself, you loose
-3-Sometimes special fruits appear that increment a lot your score without increasing your speed or your size.
+1.You scores when you eat a fruit but your velocity increase as well as your size, then the game become more difficult.
+2.If you eat yourself, you loose
+3.Sometimes special fruits appear that increment a lot your score without increasing your speed or your size.
 
 Additionaly a Simple AI can run this game, based in a very simple Heuristic.
